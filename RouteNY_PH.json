@@ -1,0 +1,24 @@
+{
+  "destination_addresses":
+    "New York, NY, USA"
+  ,
+  "origin_addresses":
+    "Philadelphia, PA, USA"
+  ,
+  "rows": [{
+    "elements": [{
+      "distance": {
+        "text": "94.6 mi",
+        "value": 152193
+      },
+      "duration": {
+        "text": "1 hour 44 mins",
+        "value": 6227
+      },
+      "status": "OK"
+    }]
+  }],
+  "status": "OK"
+}
+
+
